@@ -10,3 +10,5 @@ Various assignments and projects programmed on LabVIEW 2014. Some projects requi
 * PID
 * RC Decay Response
 * Sumo Bot
+
+*Please use my work merely as a reference, but refrain from copying the code as these are assignments and projects from my university's courses*  
